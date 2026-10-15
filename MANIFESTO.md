@@ -20,9 +20,11 @@ We believe this can change, and that the tools to change it already exist. A per
 
 ## Part I: Principles
 
-### 1. Every person has an equal voice
+### 1. Every person has an equal voice, in every decision
 
 One person, one voice, regardless of wealth, gender, race, caste, religion, nationality, disability, literacy or location. Voice cannot be bought, sold, inherited or concentrated. No feature, fee or algorithm may make one person's participation count for more than another's.
+
+**Every person can take part in every decision that affects them, at every layer, from their street to the whole world.** Nobody needs permission. No delegate, assembly or institution can close the door. Each person chooses how involved they want to be: to vote on everything, to follow only what matters to them, or to trust someone else on a topic. That choice is theirs alone, and they can change it at any time. The chance to have your say is never taken away.
 
 ### 2. People before profit
 
@@ -44,7 +46,7 @@ weGov is open source and decentralised. No company, government or founder contro
 
 ### 6. Rights that no majority can vote away
 
-Majority rule is a tool, not a god. Some things are not up for a vote: the dignity of every person, freedom of conscience and expression, protection from violence, and the right to take part. Minorities must be protected from majorities, and the future must be protected from the present.
+Majority rule is a tool, not a god. Some things are not up for a vote: the dignity of every person, freedom of conscience and expression, protection from violence, and the right to take part in every decision at every layer. Minorities must be protected from majorities, and the future must be protected from the present.
 
 ### 7. Deliberation before decision
 
@@ -82,6 +84,7 @@ The principles above are only worth something if the software follows them. Thes
 
 | Principle | Commitment |
 |---|---|
+| Every voice, every decision | **Every decision at every layer is open** for anyone it affects to see, discuss, propose changes to and vote on. People choose their own level of involvement and are told about what affects them in plain language, on any phone. |
 | Equal voice | Identity built on **one person, one account** without needing a passport or bank account. Community vouching, local verification and privacy-preserving proofs, never surveillance. |
 | Access | **Low-bandwidth first.** SMS, USSD and voice (IVR) interfaces alongside web and mobile. Works offline and syncs later. Multilingual from day one, with audio and pictographic options. |
 | No centre | **Federated architecture.** Communities run their own nodes, which connect to others through open protocols. Data belongs to the community that produced it. |

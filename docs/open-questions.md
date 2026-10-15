@@ -34,13 +34,17 @@ If you think something in the [Manifesto](../MANIFESTO.md) or the [design docume
 |---|---|---|
 | L-01 | Are five layers the right number? Should there be a layer between local and regional, or should regional and national merge? | Open |
 | L-02 | How are the boundaries of a region or a national-scale community decided, and who decides? | Open |
-| L-03 | What is the cap on delegated votes any one person can hold, and how long can a chain of delegation be? | Open |
+| L-03 | What is the cap on trusted (delegated) votes any one person can hold, and how long can a chain of trust be? | Open |
 | L-04 | How do communities of purpose (issue-based, cross-border) gain a voice at higher layers without counting anyone twice? | Open |
 | L-05 | How do weGov's national-scale communities relate to existing nation states and their laws? | Open |
 | L-06 | Is the "lower layer wins any tie" rule in jurisdiction disputes fair? Could it allow a small community to harm a larger one? | Open |
 | L-07 | How does a global citizens' assembly chosen by lottery work across hundreds of languages and very unequal access? | Open |
 | L-08 | What stops a higher layer from using its budget or information to influence lower layers indirectly? | Open |
 | L-09 | When a community leaves a higher layer, what happens to shared resources and commitments it agreed to? | Open |
+| L-10 | Everyone can take part in everything. How do we stop people being overwhelmed and drifting away, leaving decisions to a small, active few? | Open |
+| L-11 | What minimum turnout makes a decision valid at each layer, and how do trusted votes count towards it? | Open |
+| L-12 | How long should voting windows be at each layer, so people offline, working or far away get a real chance to take part? | Open |
+| L-13 | How do we stop citizens' assemblies or delegates from shaping proposals so strongly that the open vote becomes a formality? | Open |
 
 ## Integrity and identity
 
