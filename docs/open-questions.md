@@ -20,7 +20,7 @@ If you think something in the [Manifesto](../MANIFESTO.md) or the [design docume
 
 ## The first debate
 
-**[How should weGov be formed and developed?](https://github.com/psyfire25/weGov/issues/1)** This is the question that comes before all the others. Questions F-01 and P-01 to P-04 below are part of it.
+**[How should weGov be formed and developed?](https://github.com/psyfire25/weGov/issues/1)** This is the question that comes before all the others. Questions F-01 and P-01 to P-05 below are part of it.
 
 ## Foundations
 
@@ -40,6 +40,7 @@ If you think something in the [Manifesto](../MANIFESTO.md) or the [design docume
 | P-02 | How do we stop the founding being shaped only by people who are online, speak English and use GitHub? | Discussing in [#1](https://github.com/psyfire25/weGov/issues/1) |
 | P-03 | What gets built first, and where are the first pilot communities? | Discussing in [#1](https://github.com/psyfire25/weGov/issues/1) |
 | P-04 | Who writes the code, and how are code changes approved? | Discussing in [#1](https://github.com/psyfire25/weGov/issues/1) |
+| P-05 | Are AGPL-3.0 (code) and CC BY-SA 4.0 (documents) the right licenses for a global commons? | Discussing in [#1](https://github.com/psyfire25/weGov/issues/1) |
 
 ## Layers
 

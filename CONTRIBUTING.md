@@ -53,6 +53,25 @@ This is a temporary process. Changing it is part of [the first debate](https://g
 
 ---
 
+## Licensing and signing off your contributions
+
+weGov is licensed so that it stays a commons forever. Nobody, including the founders, can ever take it private:
+
+- Documents, including the manifesto and translations, are under [CC BY-SA 4.0](LICENSE-docs).
+- Code is under [AGPL-3.0-or-later](LICENSE).
+
+By contributing, you agree that your contribution is released under the same license as the file you are changing. You keep the copyright to your own work. There is no Contributor License Agreement, and nobody gains ownership of what you give.
+
+**Code and document changes made through pull requests** must be signed off under the [Developer Certificate of Origin](https://developercertificate.org/). The sign-off confirms that you wrote the contribution, or otherwise have the right to give it. Add this line to each commit message:
+
+```
+Signed-off-by: Your Name <your.email@example.com>
+```
+
+`git commit -s` adds it for you. Comments, questions and experiences shared in issues don't need a sign-off.
+
+---
+
 ## How we treat each other
 
 We follow the principles of the [Manifesto](MANIFESTO.md):
