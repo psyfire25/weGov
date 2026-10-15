@@ -18,15 +18,28 @@ If you think something in the [Manifesto](../MANIFESTO.md) or the [design docume
 
 ---
 
+## The first debate
+
+**[How should weGov be formed and developed?](https://github.com/psyfire25/weGov/issues/1)** This is the question that comes before all the others. Questions F-01 and P-01 to P-04 below are part of it.
+
 ## Foundations
 
 | ID | Question | Status |
 |---|---|---|
-| F-01 | Who has the legitimacy to adopt the first version of the manifesto, before weGov exists to vote on it? | Open |
+| F-01 | Who has the legitimacy to adopt the first version of the manifesto, before weGov exists to vote on it? | Discussing in [#1](https://github.com/psyfire25/weGov/issues/1) |
 | F-02 | Are the 13 principles the right ones? Is anything missing (for example economic justice, land, health, anti-corruption, the rights of nature)? | Open |
 | F-03 | Can the rights floor itself be questioned, given that the manifesto says it can only be strengthened? Who decides what counts as "strengthening"? | Open |
 | F-04 | Does "one person, one voice" apply to children? From what age, and how? | Open |
 | F-05 | How does weGov relate to cultures whose traditions of collective decision-making are not based on voting, such as consensus or councils of elders? | Open |
+
+## Forming and developing weGov
+
+| ID | Question | Status |
+|---|---|---|
+| P-01 | How are decisions about weGov made now, and when and how does control pass to the platform itself? | Discussing in [#1](https://github.com/psyfire25/weGov/issues/1) |
+| P-02 | How do we stop the founding being shaped only by people who are online, speak English and use GitHub? | Discussing in [#1](https://github.com/psyfire25/weGov/issues/1) |
+| P-03 | What gets built first, and where are the first pilot communities? | Discussing in [#1](https://github.com/psyfire25/weGov/issues/1) |
+| P-04 | Who writes the code, and how are code changes approved? | Discussing in [#1](https://github.com/psyfire25/weGov/issues/1) |
 
 ## Layers
 

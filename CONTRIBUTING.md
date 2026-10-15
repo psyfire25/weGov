@@ -4,6 +4,8 @@ weGov is meant to belong to everyone, so it should be shaped by everyone from th
 
 Until weGov can govern itself, the project uses GitHub to discuss and decide. Once the platform is running, the project will move onto weGov itself.
 
+**The first debate is open: [How should weGov be formed and developed?](https://github.com/psyfire25/weGov/issues/1)** It's the best place to start.
+
 ---
 
 ## Ways to contribute
@@ -47,7 +49,7 @@ Platform code doesn't exist yet. Design work comes first. If you have skills in 
 4. A change is merged once there is broad agreement and no strong, unresolved objection.
 5. Every decision and its reasoning stays public.
 
-This is a temporary process. Changing it is itself an open question (see [F-01](docs/open-questions.md#foundations)).
+This is a temporary process. Changing it is part of [the first debate](https://github.com/psyfire25/weGov/issues/1).
 
 ---
 

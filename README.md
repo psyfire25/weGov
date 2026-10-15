@@ -3,6 +3,12 @@ An open source governance platform for the whole world.
 
 weGov is digital, open source and decentralised infrastructure that lets communities govern themselves. It is built so that every person, including the world's poorest, has an equal voice.
 
+## The first debate is open
+
+**[How should weGov be formed and developed?](https://github.com/psyfire25/weGov/issues/1)**
+
+Everything here is a very rough first draft. Before anything is built, we want to decide together how weGov should be founded, who gets a say in founding it, and what to build first. Join in.
+
 ## Start here
 
 | | |
@@ -14,7 +20,7 @@ weGov is digital, open source and decentralised infrastructure that lets communi
 
 ## Status
 
-Early stage. The foundations are being written and openly challenged. Platform code comes after the design.
+Very early. The manifesto is a rough first draft and the first debate is open. Platform code comes after the design.
 
 ## Get involved
 

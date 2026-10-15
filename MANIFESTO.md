@@ -1,6 +1,8 @@
 # The weGov Manifesto
 
-*Draft 0.1. This is a living document, and it will be amended by the process it describes.*
+*Very rough first draft (0.1). This is a living document, and it will be amended by the process it describes.*
+
+> **This draft is a starting point for argument, not a finished plan.** The first debate is open: **[How should weGov be formed and developed?](https://github.com/psyfire25/weGov/issues/1)** Every word here can be challenged there.
 
 ---
 
