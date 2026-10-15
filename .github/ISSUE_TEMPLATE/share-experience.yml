@@ -1,0 +1,28 @@
+name: Share your community's experience
+description: Tell us how decisions are made where you live, so weGov is designed for real lives.
+title: "[Experience] "
+labels: ["lived-experience"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Every community has ways of deciding things together. Yours can teach us something. Write as much or as little as you like, in any language.
+  - type: input
+    id: where
+    attributes:
+      label: Where (as specific as you're comfortable sharing)
+      description: Country or region is enough. Don't share anything that could put you at risk.
+  - type: textarea
+    id: how
+    attributes:
+      label: How are decisions made in your community today?
+    validations:
+      required: true
+  - type: textarea
+    id: works
+    attributes:
+      label: What works well, and what doesn't?
+  - type: textarea
+    id: access
+    attributes:
+      label: How do people there communicate? (phones, internet, radio, meetings, languages)
