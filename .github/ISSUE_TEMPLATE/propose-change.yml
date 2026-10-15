@@ -1,0 +1,30 @@
+name: Propose a change
+description: Suggest specific wording or a new idea for the manifesto or a design document.
+title: "[Proposal] "
+labels: ["proposal"]
+body:
+  - type: input
+    id: document
+    attributes:
+      label: Which document?
+      description: For example MANIFESTO.md, Principle 4, or docs/layers.md section 5
+    validations:
+      required: true
+  - type: textarea
+    id: change
+    attributes:
+      label: What would you change?
+      description: Quote the current text if you can, then your suggested version.
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: Why?
+    validations:
+      required: true
+  - type: textarea
+    id: principles
+    attributes:
+      label: Does this affect any manifesto principle? (optional)
+      description: Note that the rights in Principle 6 can be strengthened but never weakened.

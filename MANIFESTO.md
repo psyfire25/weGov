@@ -34,7 +34,9 @@ A democracy that only works for the connected, the literate and the comfortable 
 
 ### 4. Power flows from the bottom up
 
-Decisions should be made as close as possible to the people they affect. A village decides village matters. A city decides city matters. Wider questions belong to wider circles. This principle is called *subsidiarity*. Higher levels of coordination exist to serve the communities that form them, not to rule over them.
+Decisions should be made as close as possible to the people they affect. A village decides village matters. A city decides city matters. Wider questions belong to wider circles. This principle is called *subsidiarity*.
+
+weGov is built in five nested layers: **individual, local, regional, national and global**. All power starts with the individual. Each higher layer holds only the powers the layers below have chosen to grant it, and those powers can be taken back. Higher layers exist to serve the communities that form them, not to rule over them. The rights in Principle 6 apply at every layer. See [The Layers of weGov](docs/layers.md).
 
 ### 5. No centre, no owner, no single point of failure
 
@@ -85,7 +87,7 @@ The principles above are only worth something if the software follows them. Thes
 | No centre | **Federated architecture.** Communities run their own nodes, which connect to others through open protocols. Data belongs to the community that produced it. |
 | Open & private | **Auditable, secret ballots.** Anyone can verify the count, but nobody can learn how an individual voted. All code is public, with reproducible builds. |
 | Deliberation | **Structured discussion tools** that bring out common ground instead of rewarding outrage. Plain-language summaries of every proposal. Time to reflect before voting. |
-| Bottom-up | **Nested communities.** Neighbourhood, town, region, world, and issue-based groups that cut across geography. Each sets its own rules within shared rights. |
+| Bottom-up | **[Five nested layers](docs/layers.md):** individual, local, regional, national and global, plus issue-based communities that cut across them. Power is granted upward by consent and can be revoked. Safeguards grow stronger the higher the layer. |
 | Power is borrowed | **Rotation, term limits and recall** built into every role. Optional delegation of a vote that can be taken back at any time. |
 | People before profit | **No ads, no tracking, no data sales.** Funded openly through donations, grants and voluntary community contributions, with public accounts. |
 | Education | **Built-in learning.** Explainers, source-checking and civic skills, available to everyone and in every language. |
@@ -103,7 +105,9 @@ We do not have all the answers. Honesty about what is difficult is part of the c
 - **Manipulation.** How do we resist disinformation, fake accounts, vote buying and capture by well-organised minorities?
 - **Scale.** How does deliberation that works for fifty people work for fifty million?
 
-These will be tracked openly and worked on together. Anyone can contribute an answer.
+- **Layers.** How are regions and nations formed, how far can votes be delegated, and how does weGov relate to existing states?
+
+These are tracked openly in the [Open Questions register](docs/open-questions.md) and worked on together. Anyone can contribute an answer, or challenge the question itself.
 
 ---
 
@@ -117,6 +121,6 @@ The principles in Part I, Section 6 (rights no majority can vote away) can be st
 
 ## Join us
 
-If you believe that every person deserves a say in the decisions that shape their life, this is your project. Read it, question it, translate it, improve it, build it.
+If you believe that every person deserves a say in the decisions that shape their life, this is your project. Read it, question it, translate it, improve it, build it. [Start here](CONTRIBUTING.md).
 
 **We, the people. All of us, this time.**

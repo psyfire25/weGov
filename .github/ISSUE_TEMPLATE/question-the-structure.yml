@@ -1,0 +1,44 @@
+name: Question the structure
+description: Challenge any part of the manifesto, the layers or weGov's design.
+title: "[Question] "
+labels: ["question-the-structure"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you. Challenging the foundations is how weGov gets stronger. Plain language is welcome, and you can write in any language.
+  - type: dropdown
+    id: area
+    attributes:
+      label: Which part are you questioning?
+      options:
+        - The Manifesto (principles)
+        - The Layers (individual, local, regional, national, global)
+        - Integrity and identity (voting, one person one voice)
+        - Access (phones, SMS, languages, literacy)
+        - Legitimacy and safety
+        - How this project itself is run
+        - Something else
+    validations:
+      required: true
+  - type: textarea
+    id: question
+    attributes:
+      label: Your question or challenge
+      description: What do you think is wrong, unfair, missing or unworkable?
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why does it matter?
+      description: Who would be affected, and how? Examples from where you live are very valuable.
+  - type: textarea
+    id: idea
+    attributes:
+      label: Any idea for an answer? (optional)
+  - type: input
+    id: related
+    attributes:
+      label: Related Open Question ID (optional)
+      description: For example L-03. See docs/open-questions.md
