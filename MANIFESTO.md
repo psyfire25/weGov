@@ -129,3 +129,7 @@ The principles in Part I, Section 6 (rights no majority can vote away) can be st
 If you believe that every person deserves a say in the decisions that shape their life, this is your project. Read it, question it, translate it, improve it, build it. [Start here](CONTRIBUTING.md).
 
 **We, the people. All of us, this time.**
+
+---
+
+*This manifesto is licensed under [Creative Commons Attribution-ShareAlike 4.0](LICENSE-docs). Share it, translate it and adapt it freely, as long as your version stays open too.*

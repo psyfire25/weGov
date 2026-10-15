@@ -25,3 +25,12 @@ Very early. The manifesto is a rough first draft and the first debate is open. P
 ## Get involved
 
 You don't need to be a programmer. **Question the structure:** [open an issue](../../issues/new/choose) and tell us what's wrong, missing or won't work where you live.
+
+## License
+
+weGov is a commons. It belongs to everyone, and the licenses keep it that way.
+
+- **Manifesto and documents:** [Creative Commons Attribution-ShareAlike 4.0](LICENSE-docs) (CC BY-SA 4.0). You can share, translate and adapt them, as long as you credit weGov and release your version under the same license.
+- **Software:** [GNU Affero General Public License v3.0 or later](LICENSE) (AGPL-3.0-or-later). You can use, change and run it. If you distribute it, or run a modified version for others over a network, you must share your changes under the same license.
+
+Whether these are the right licenses is part of [the first debate](https://github.com/psyfire25/weGov/issues/1).
